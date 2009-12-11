@@ -7,7 +7,7 @@ Integration with CC Avenue is very simple using LightCart. It's just a matter of
 
 = Details =
 
-Step 1: Open "settings.php"
-Step 2: Enter $Merchant_Id and $WorkingKey, as mentioned in your CC Avenue control panel.
-Step 3: Enter $Redirect_Url as mentioned
+Step 1: Open "settings.php"<br />
+Step 2: Enter $Merchant_Id and $WorkingKey, as mentioned in your CC Avenue control panel<br />
+Step 3: Enter $Redirect_Url as mentioned<br />
 Step 4: Done!
