@@ -8,4 +8,4 @@ Once the user chooses to proceed to checkout, the order is saved in an Excel 200
 = Details =
 
 <p>The Excel sheet is stored in the folder "excel". This can be changed in the "settings.php" file. Since this new Excel file will need to be created, make sure your "excel" folder has write permission.</p>
-<p>To be more secure, you can <strong>password protect</strong> this folder to avoid no un-wanted access to this information.</p>
+<p>To be more secure, you can <strong>password protect</strong> this folder to avoid any un-wanted access to this information.</p>
